@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="rdbo.github.io"><img src="https://github.com/rdbo/rdbo/blob/master/rdbo.png"/></a>
+  <a href="https://rdbo.github.io"><img src="https://github.com/rdbo/rdbo/blob/master/rdbo.png"/></a>
 </p>
 
 <h2 align="center">Hobbyist Coder and Reverse Engineer</h2>
