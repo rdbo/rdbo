@@ -2,7 +2,7 @@
   <a href="rdbo.github.io"><img src="https://github.com/rdbo/rdbo/blob/master/rdbo.png"/></a>
 </p>
 
-<p align="center">Hobbyist Coder and Reverse Engineer</p>
+<h2 align="center">Hobbyist Coder and Reverse Engineer</h2>
 <br/><br/>
 
 ### Projects
