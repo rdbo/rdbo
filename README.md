@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="rdbo.github.io"><img src="https://github.com/rdbo/rdbo/blob/master/rdbo.png"/></a>
+</p>
+
+<p align="center">Hobbyist Coder and Reverse Engineer</p>
+<br/><br/>
+
 ### Projects
 
 ### -- Hacking Tools
