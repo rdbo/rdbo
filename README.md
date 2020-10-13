@@ -15,7 +15,7 @@
 <a href="https://github.com/rdbo/multiscanner.py">multiscanner (Python, Any)</a>  
 <a href="https://github.com/rdbo/arp_spoofer.py">arp spoofer   (Python, Any)</a>  
 ### \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-### -- Hacks
+### -- Cheats/Hacks
 ### ---- Half-Life
 <a href="https://github.com/rdbo/Half-Life-Source-Multihack">Half-Life: Source Multihack (C++, Windows)</a>  
 <a href="https://github.com/rdbo/Half-Life-2-Multihack">Half-Life 2 Multihack (C++, Windows)</a>  
