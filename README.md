@@ -7,10 +7,12 @@
 
 ### Projects
 
-### -- Hacking Tools
+### -- Hacking Resources
 ### ---- Memory Hacking
 <a href="https://github.com/rdbo/libmem">libmem (C/C++, Windows/Linux)</a>  
 <a href="https://github.com/rdbo/Memory">Memory (C++, Windows/Linux)</a>  
+<a href="https://github.com/rdbo/libmem">x-inject (C/C++, Windows/Linux)</a>  
+<a href="https://github.com/rdbo/game_hacking_guide">Game Hacking Guide</a>  
 ### ---- General Hacking
 <a href="https://github.com/rdbo/multiscanner.py">multiscanner (Python, Any)</a>  
 <a href="https://github.com/rdbo/arp_spoofer.py">arp spoofer   (Python, Any)</a>  
