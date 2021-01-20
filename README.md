@@ -18,7 +18,7 @@
 <a href="https://github.com/rdbo/arp_spoofer.py">arp spoofer   (Python, Any)</a>  
 ### \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 ### -- Cheats/Hacks
-### -- Assault Cube
+### ---- Assault Cube
 <a href="https://github.com/rdbo/AssaultCube-Multihack">AssaultCube Multihack (C++, Windows)</a>  
   
 ### ---- Half-Life
