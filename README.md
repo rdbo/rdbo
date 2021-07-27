@@ -9,7 +9,7 @@
 
 ### -- Hacking Resources
 ### ---- Memory Hacking
-<a href="https://github.com/rdbo/libmem">libmem (C/C++, Windows/Linux)</a>  
+<a href="https://github.com/rdbo/libmem">libmem (C/C++, Windows/Linux/BSD, x86/ARM)</a>  
 <a href="https://github.com/rdbo/Memory">Memory (C++, Windows/Linux)</a>  
 <a href="https://github.com/rdbo/libmem">x-inject (C/C++, Windows/Linux)</a>  
 <a href="https://github.com/rdbo/game_hacking_guide">Game Hacking Guide</a>  
