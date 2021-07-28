@@ -4,11 +4,11 @@
 
 <h2 align="center">Hobbyist Coder and Reverse Engineer</h2>  
   
-### Stats
+### Stats 📊
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=rdbo&theme=tokyonight)
 
-### Project Hightlights
+### Project Hightlights ⭐
 
 <a href="https://github.com/rdbo/libmem">libmem (C/C++, Windows/Linux/BSD, x86/ARM)</a>
 <a href="https://github.com/rdbo/AssaultCube-Multihack">AssaultCube Multihack (C++, Windows)</a>  
