@@ -2,8 +2,8 @@
   <a href="https://rdbo.github.io"><img src="https://github.com/rdbo/rdbo/blob/master/rdbo.png"/></a>
 </p>
 
-<h2 align="center">Hobbyist Coder and Reverse Engineer</h2>
----
+<h2 align="center">Hobbyist Coder and Reverse Engineer</h2>  
+  
 ### Stats
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=rdbo&theme=tokyonight)
