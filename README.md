@@ -7,7 +7,7 @@
 ### Stats 📊
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=rdbo&theme=tokyonight)
-![github-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdbo&langs_count=5&theme=tokyonight&layout=compact)
+![github-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdbo&langs_count=8&theme=tokyonight&layout=compact)
 
 ### Project Hightlights ⭐
 
