@@ -3,8 +3,8 @@
 </p>
 
 <h2 align="center">Hobbyist Coder and Reverse Engineer</h2>
-<br/><br/>
-#  
+---
+### Stats
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=rdbo&theme=tokyonight)
 
