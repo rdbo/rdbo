@@ -6,8 +6,8 @@
   
 ### Stats 📊
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=rdbo&theme=tokyonight&show_icons=true&line_height=32)
-![github-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdbo&langs_count=4&theme=tokyonight&line_height=34&hide=cmake)
+![github-stats](https://github-readme-stats.vercel.app/api?username=rdbo&theme=tokyonight&show_icons=true&line_height=33)
+![github-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdbo&langs_count=4&theme=tokyonight&line_height=35&hide=cmake)
 
 ### Project Hightlights ⭐
 
