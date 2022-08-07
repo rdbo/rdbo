@@ -11,6 +11,7 @@
 
 ### Project Hightlights ⭐
 
+- ![Sigma Linux](https://github.com/rdbo/sigma-linux)
 - ![libmem](https://github.com/rdbo/libmem)
 - ![AssaultCube Multihack](https://github.com/rdbo/AssaultCube-Multihack)
 - ![Half-Life Source Multihack](https://github.com/rdbo/Half-Life-Source-Multihack)
