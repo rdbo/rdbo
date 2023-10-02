@@ -4,7 +4,7 @@
 
 ### Project Hightlights ⭐
 
-- ![Sigma Linux](https://github.com/rdbo/sigma-linux)
+- [Sigma Linux](https://github.com/rdbo/sigma-linux)
 - ![libmem](https://github.com/rdbo/libmem)
 - ![NutriNow](https://github.com/rdbo/nutrinow)
 - ![Natty Clicker](https://github.com/rdbo/natty-clicker)
