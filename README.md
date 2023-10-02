@@ -23,4 +23,5 @@
 - ![Half-Life 2 Multihack](https://github.com/rdbo/Half-Life-2-Multihack)
 - ![Minecraft Test Mod](https://github.com/rdbo/minecraft-forge-test)
 - ![Expression Parser GUI](https://github.com/rdbo/ExpressionParser-GUI)
+- ![Teams Helper](https://github.com/rdbo/teams-helper)
 - ![Chat Server](https://github.com/rdbo/chat-server)
