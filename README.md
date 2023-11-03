@@ -27,3 +27,12 @@
 - [Expression Parser GUI](https://github.com/rdbo/ExpressionParser-GUI)
 - [Teams Helper](https://github.com/rdbo/teams-helper)
 - [Chat Server](https://github.com/rdbo/chat-server)
+
+### Contributions
+- [Bevy Project](https://github.com/bevyengine/bevy)
+- [Leptos (cargo-leptos)](https://github.com/leptos-rs/cargo-leptos)
+- [LIEF Project](https://github.com/lief-project/LIEF)
+- [Frida Java Menu](https://github.com/commonuserlol/frida-java-menu)
+- [Kubo Injector](https://github.com/kubo/injector)
+- [maim](https://github.com/naelstrof/maim)
+- [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
