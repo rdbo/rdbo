@@ -28,7 +28,8 @@
 - [Teams Helper](https://github.com/rdbo/teams-helper)
 - [Chat Server](https://github.com/rdbo/chat-server)
 
-### Contributions
+### Contributions 👥
+- [The Tor Project (arti)](https://gitlab.torproject.org/tpo/core/arti)
 - [Bevy Project](https://github.com/bevyengine/bevy)
 - [Leptos (cargo-leptos)](https://github.com/leptos-rs/cargo-leptos)
 - [LIEF Project](https://github.com/lief-project/LIEF)
