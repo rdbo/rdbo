@@ -35,6 +35,7 @@
 - [LIEF Project](https://github.com/lief-project/LIEF)
 - [Frida Java Menu](https://github.com/commonuserlol/frida-java-menu)
 - [Kubo Injector](https://github.com/kubo/injector)
+- [v4l2loopback](https://github.com/umlaeute/v4l2loopback)
 - [maim](https://github.com/naelstrof/maim)
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [TOX (TRIfA)](https://github.com/zoff99/ToxAndroidRefImpl)
