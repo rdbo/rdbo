@@ -25,6 +25,7 @@
 - [ImGUI Overlay](https://github.com/rdbo/imgui-overlay)
 - [Minecraft Test Mod](https://github.com/rdbo/minecraft-forge-test)
 - [Expression Parser GUI](https://github.com/rdbo/ExpressionParser-GUI)
+- [Seneca Solver](https://github.com/rdbo/seneca-solver)
 - [Teams Helper](https://github.com/rdbo/teams-helper)
 - [Chat Server](https://github.com/rdbo/chat-server)
 
