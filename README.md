@@ -8,6 +8,7 @@
 - [libmem](https://github.com/rdbo/libmem)
 - [NutriNow](https://github.com/rdbo/nutrinow)
 - [Natty Clicker](https://github.com/rdbo/natty-clicker)
+- [JNIHook](https://github.com/rdbo/jnihook)
 - [TypeMaster CLI](https://github.com/rdbo/typemaster-cli)
 - [CAPTCHA Generator](https://github.com/rdbo/captcha-test)
 - [AssaultCube Multihack](https://github.com/rdbo/AssaultCube-Multihack)
