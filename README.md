@@ -2,6 +2,9 @@
   <a href="https://rdbo.github.io"><img src="https://github.com/rdbo/rdbo/blob/master/rdbo.png"/></a>
 </p>
 
+### Discord Server
+[https://discord.com/invite/Qw8jsPD99X](https://discord.com/invite/Qw8jsPD99X)
+
 ### Project Hightlights ⭐
 
 - [Sigma Linux](https://github.com/rdbo/sigma-linux)
