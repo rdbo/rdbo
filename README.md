@@ -44,5 +44,6 @@
 - [Kubo Injector](https://github.com/kubo/injector)
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback)
 - [maim](https://github.com/naelstrof/maim)
+- [yambar](https://codeberg.org/dnkl/yambar)
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [TOX (TRIfA)](https://github.com/zoff99/ToxAndroidRefImpl)
