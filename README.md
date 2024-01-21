@@ -37,13 +37,14 @@
 
 ### Contributions 👥
 - [The Tor Project (arti)](https://gitlab.torproject.org/tpo/core/arti)
-- [Bevy Project](https://github.com/bevyengine/bevy)
 - [Leptos (cargo-leptos)](https://github.com/leptos-rs/cargo-leptos)
-- [LIEF Project](https://github.com/lief-project/LIEF)
-- [OpenJDK](https://github.com/openjdk/jdk)
+- [Bevy Project](https://github.com/bevyengine/bevy)
 - [Frida Java Menu](https://github.com/commonuserlol/frida-java-menu)
 - [Kubo Injector](https://github.com/kubo/injector)
+- [LIEF Project](https://github.com/lief-project/LIEF)
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback)
+- [OpenJDK](https://github.com/openjdk/jdk)
+- [Async Stripe](https://github.com/arlyon/async-stripe)
 - [maim](https://github.com/naelstrof/maim)
 - [yambar](https://codeberg.org/dnkl/yambar)
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
