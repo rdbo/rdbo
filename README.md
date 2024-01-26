@@ -43,6 +43,7 @@
 - [Kubo Injector](https://github.com/kubo/injector)
 - [LIEF Project](https://github.com/lief-project/LIEF)
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback)
+- [Axum](https://github.com/tokio-rs/axum)
 - [OpenJDK](https://github.com/openjdk/jdk)
 - [Async Stripe](https://github.com/arlyon/async-stripe)
 - [maim](https://github.com/naelstrof/maim)
