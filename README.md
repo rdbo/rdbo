@@ -38,6 +38,7 @@
 ### Contributions 👥
 - [The Tor Project (arti)](https://gitlab.torproject.org/tpo/core/arti)
 - [Leptos (cargo-leptos)](https://github.com/leptos-rs/cargo-leptos)
+- [MiniJinja](https://github.com/mitsuhiko/minijinja)
 - [Bevy Project](https://github.com/bevyengine/bevy)
 - [Frida Java Menu](https://github.com/commonuserlol/frida-java-menu)
 - [Kubo Injector](https://github.com/kubo/injector)
