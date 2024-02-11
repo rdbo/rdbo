@@ -18,6 +18,7 @@
 - [Subway Surfers Mod Menu](https://github.com/rdbo/subwaysurfers-modmenu)
 - [Half-Life Source Multihack](https://github.com/rdbo/Half-Life-Source-Multihack)
 - [Half-Life 2 Multihack](https://github.com/rdbo/Half-Life-2-Multihack)
+- [ProxyBind](https://github.com/rdbo/proxybind)
 - [Hybrid Encryption PoC](https://github.com/rdbo/hybrid-encryption-poc)
 - [dynja](https://github.com/rdbo/dynja)
 - [sndio Playblack](https://github.com/rdbo/sndio-playback)
