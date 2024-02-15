@@ -53,3 +53,4 @@
 - [yambar](https://codeberg.org/dnkl/yambar)
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [TOX (TRIfA)](https://github.com/zoff99/ToxAndroidRefImpl)
+- [HTMX](https://github.com/bigskysoftware/htmx)
