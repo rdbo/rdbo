@@ -52,6 +52,7 @@
 - [Async Stripe](https://github.com/arlyon/async-stripe)
 - [maim](https://github.com/naelstrof/maim)
 - [yambar](https://codeberg.org/dnkl/yambar)
+- [luakit](https://github.com/luakit/luakit/pull/1083)
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [TOX (TRIfA)](https://github.com/zoff99/ToxAndroidRefImpl)
 - [HTMX](https://github.com/bigskysoftware/htmx)
