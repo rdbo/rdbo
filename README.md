@@ -45,6 +45,7 @@
 - [Kubo Injector](https://github.com/kubo/injector)
 - [LIEF Project](https://github.com/lief-project/LIEF)
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback)
+- [wvkbd](https://github.com/jjsullivan5196/wvkbd)
 - [Axum](https://github.com/tokio-rs/axum)
 - [st](https://github.com/siduck/st)
 - [go-toml](https://github.com/pelletier/go-toml)
