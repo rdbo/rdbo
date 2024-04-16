@@ -49,6 +49,7 @@
 - [wvkbd](https://github.com/jjsullivan5196/wvkbd)
 - [Axum](https://github.com/tokio-rs/axum)
 - [st](https://github.com/siduck/st)
+- [arti-axum](https://github.com/jgraef/arti-axum)
 - [go-toml](https://github.com/pelletier/go-toml)
 - [OpenJDK](https://github.com/openjdk/jdk)
 - [Async Stripe](https://github.com/arlyon/async-stripe)
