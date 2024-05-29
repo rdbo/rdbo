@@ -45,6 +45,7 @@
 - [Bevy Project](https://github.com/bevyengine/bevy)
 - [Frida Java Menu](https://github.com/commonuserlol/frida-java-menu)
 - [Kubo Injector](https://github.com/kubo/injector)
+- [Keystone](https://github.com/keystone-engine/keystone)
 - [LIEF Project](https://github.com/lief-project/LIEF)
 - [Alpine Linux aports](https://gitlab.alpinelinux.org/alpine/aports)
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback)
