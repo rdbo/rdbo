@@ -15,6 +15,8 @@
 - [NutriNow](https://github.com/rdbo/nutrinow)
 - [Natty Clicker](https://github.com/rdbo/natty-clicker)
 - [JNIHook](https://github.com/rdbo/jnihook)
+- [simplex-chat-ruby](https://github.com/rdbo/simplex-chat-ruby)
+- [simplex-chat-rs](https://github.com/rdbo/simplex-chat-rs)
 - [initrdbo](https://github.com/rdbo/initrdbo)
 - [NextVideo](https://github.com/rdbo/nextvideo)
 - [React Simple Chat](https://github.com/rdbo/react-simple-chat)
