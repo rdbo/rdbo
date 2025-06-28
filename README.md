@@ -6,7 +6,7 @@
 [https://discord.com/invite/Qw8jsPD99X](https://discord.com/invite/Qw8jsPD99X)
 
 ### SimpleX Chat Server
-[simplex.chat contact](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2F14fRwoXWR9WsydWES1V8R_0Mq4mdQLmI%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAc6jRoODq0eY3MfRb2a2mVaFwB2nks3DtYt6RiwGCzGM%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Ea4LGwOh1Q5Q1vLRIZop5A%3D%3D%22%7D)
+[simplex.chat contact](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FTbbDrTtaVN6LtV5Ccx3g2H51KUAOSSLK%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEAFP2ag8-y1vl-msDilx0Iey_Sw8SYvdmGuPIxXhomWk4%253D%26q%3Dc%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion&data=%7B%22groupLinkId%22%3A%22Cfc3d-b7Aj48h_eq1O9--g%3D%3D%22%7D)
 
 ### Project Highlights ⭐
 
