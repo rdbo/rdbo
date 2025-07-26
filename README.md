@@ -15,6 +15,7 @@
 - [NutriNow](https://github.com/rdbo/nutrinow)
 - [Natty Clicker](https://github.com/rdbo/natty-clicker)
 - [JNIHook](https://github.com/rdbo/jnihook)
+- [jcfp](https://github.com/rdbo/jcfp)
 - [simplex-chat-ruby](https://github.com/rdbo/simplex-chat-ruby)
 - [simplex-chat-rs](https://github.com/rdbo/simplex-chat-rs)
 - [initrdbo](https://github.com/rdbo/initrdbo)
