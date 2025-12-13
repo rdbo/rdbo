@@ -13,6 +13,8 @@
 - [Sigma Linux](https://github.com/rdbo/sigma-linux)
 - [libmem](https://github.com/rdbo/libmem)
 - [wipi](https://github.com/rdbo/wipi)
+- [wipi-web-ui](https://github.com/rdbo/wipi-web-ui)
+- [wipi-web-api](https://github.com/rdbo/wipi-web-api)
 - [NutriNow](https://github.com/rdbo/nutrinow)
 - [Natty Clicker](https://github.com/rdbo/natty-clicker)
 - [JNIHook](https://github.com/rdbo/jnihook)
