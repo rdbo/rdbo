@@ -19,6 +19,7 @@
 - [Natty Clicker](https://github.com/rdbo/natty-clicker)
 - [JNIHook](https://github.com/rdbo/jnihook)
 - [biblegen](https://github.com/rdbo/biblegen)
+- [discord-bible-bot](https://github.com/rdbo/discord-bible-bot)
 - [jcfp](https://github.com/rdbo/jcfp)
 - [simplex-chat-ruby](https://github.com/rdbo/simplex-chat-ruby)
 - [simplex-chat-rs](https://github.com/rdbo/simplex-chat-rs)
