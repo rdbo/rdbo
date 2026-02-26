@@ -18,6 +18,7 @@
 - [NutriNow](https://github.com/rdbo/nutrinow)
 - [Natty Clicker](https://github.com/rdbo/natty-clicker)
 - [JNIHook](https://github.com/rdbo/jnihook)
+- [jnif fork](https://github.com/rdbo/jnif)
 - [biblegen](https://github.com/rdbo/biblegen)
 - [discord-bible-bot](https://github.com/rdbo/discord-bible-bot)
 - [jcfp](https://github.com/rdbo/jcfp)
