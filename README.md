@@ -22,6 +22,7 @@
 - [biblegen](https://github.com/rdbo/biblegen)
 - [discord-bible-bot](https://github.com/rdbo/discord-bible-bot)
 - [jcfp](https://github.com/rdbo/jcfp)
+- [toy-lang](https://github.com/rdbo/toy-lang)
 - [simplex-chat-ruby](https://github.com/rdbo/simplex-chat-ruby)
 - [simplex-chat-rs](https://github.com/rdbo/simplex-chat-rs)
 - [initrdbo](https://github.com/rdbo/initrdbo)
