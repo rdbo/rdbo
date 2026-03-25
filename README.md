@@ -12,6 +12,7 @@
 
 - [Sigma Linux](https://github.com/rdbo/sigma-linux)
 - [libmem](https://github.com/rdbo/libmem)
+- [The Omega Programming Language](https://github.com/the-omega-lang/omega)
 - [wipi](https://github.com/rdbo/wipi)
 - [wipi-web-ui](https://github.com/rdbo/wipi-web-ui)
 - [wipi-web-api](https://github.com/rdbo/wipi-web-api)
