@@ -27,6 +27,7 @@
 - [simplex-chat-ruby](https://github.com/rdbo/simplex-chat-ruby)
 - [simplex-chat-rs](https://github.com/rdbo/simplex-chat-rs)
 - [initrdbo](https://github.com/rdbo/initrdbo)
+- [music](https://github.com/rdbo/music)
 - [NextVideo](https://github.com/rdbo/nextvideo)
 - [React Simple Chat](https://github.com/rdbo/react-simple-chat)
 - [TypeMaster CLI](https://github.com/rdbo/typemaster-cli)
