@@ -25,6 +25,8 @@
 - [discord-bible-bot](https://github.com/rdbo/discord-bible-bot)
 - [jcfp](https://github.com/rdbo/jcfp)
 - [toy-lang](https://github.com/rdbo/toy-lang)
+- [agent-sandbox](https://github.com/rdbo/agent-sandbox)
+- [meal-planner](https://github.com/rdbo/meal-planner-cli)
 - [simplex-chat-ruby](https://github.com/rdbo/simplex-chat-ruby)
 - [simplex-chat-rs](https://github.com/rdbo/simplex-chat-rs)
 - [initrdbo](https://github.com/rdbo/initrdbo)
